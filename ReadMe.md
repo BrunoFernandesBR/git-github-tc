@@ -1,6 +1,6 @@
 # Git e GitHub
 
-nosso gutso de Git e GitHub Supimpa!!!
+Nosso curso de Git e GitHub Supimpa!!!
 
 ## Dia 01
 
